@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 6em;
+    font-family: 'Open Sans', sans-serif;
+}
+.main p {
+    padding: 1em 0;
+    line-height: 1.5em;
+}
+.main p a {
+    text-decoration: none;
+    color: blue;
+}
+.main ol {
+    padding-left: 1em;
+}
+.main ol li {
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.minor-list {
+    padding-left: 1em;
+}
+h2 {
+    padding-top: 3.5em;
+}
+h4 {
+    padding-top: 3em;
+}
